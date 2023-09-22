@@ -7,10 +7,6 @@ html {
   font-family: 'Raleway', sans-serif;
 }
 
-.responsive-carousel-slider .screenshot {
-  border: 1px solid black;
-}
-
 @layer base {
   body {
     @apply bg-[#ecf0f3] text-[#1f2937] tracking-wide
